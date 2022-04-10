@@ -179,5 +179,6 @@ If you find any part of our code useful for your research, consider citing our p
 
 ## License
 
+Copyright (c) 2022-present NAVER Corp.<br>
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
